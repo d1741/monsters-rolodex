@@ -22,7 +22,7 @@ This project is meant to be an intro to React capabilities focusing on:
 2. Understanding that the "dumber" our components are, the more easily they can work together or be used elsewhere
 3. Where to store our state and how to pass it around efficiently
 4. Gaining a better understanding of life cycle methods, specifically `componentDidMount()`
-5. Using SSH key to host the project on GitHub Pages
+5. Setting up SSH key and hosting the project on GitHub Pages
 6. Unintentional, but ended up being a great opportunity to practice writing a README!
 
 ---
@@ -35,6 +35,13 @@ This project is meant to be an intro to React capabilities focusing on:
 
 ---
 
+:soon:
+:soon:
+:soon:
+:soon:
+:soon:
+:soon:
+:soon:
 :soon:
 :soon:
 :soon:
