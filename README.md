@@ -30,15 +30,19 @@ This project is meant to be an intro to React capabilities focusing on:
 ## APIs and Outside Sites Used:
 
 :link: [Robohash for the pictures](https://robohash.org/)
+
 :link: [JSON Placeholder for the user info](https://jsonplaceholder.typicode.com)
 
 ---
 
 :soon:
+:soon:
+:soon:
+:soon:
 
 ## Future Goals:
 
-1. Add a clickable heart/star icon for users to store specific cards to their own address book
+1. Add a clickable heart/star icon for users to store specific cards in their own address book
 2. Make it responsive as it is not currently formatted for mobile users
 
 ---
@@ -46,6 +50,7 @@ This project is meant to be an intro to React capabilities focusing on:
 ## Credits:
 
 [Yihua Zhang](https://github.com/ZhangMYihua)
+
 [Andrei Neagoie](https://github.com/aneagoie)
 
 ---
